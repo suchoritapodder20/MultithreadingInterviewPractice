@@ -1,4 +1,4 @@
-package org.codingPractice.Synchronization;
+package org.codingPractice.November6th24.ExecuterServiceExample.SynchronizationRealExample;
 
 class WithdrawTask implements Runnable {
     private BankAccount account;
